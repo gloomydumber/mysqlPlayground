@@ -1,0 +1,3 @@
+# mysqlPlayground
+
+studying mySQL
