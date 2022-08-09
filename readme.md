@@ -30,6 +30,24 @@ studying mySQL
 
 `RDBMS`에서는 각 `table`간의 관계를 정의하여 데이터를 효율적으로 처리
 
+### lectures
+
+1. [SELECT 전반 기능 훑어보기](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture01.md)
+2. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture02.md)
+3. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture03.md)
+4. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture04.md)
+5. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture05.md)
+6. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture06.md)
+7. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture07.md)
+8. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture08.md)
+9. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture09.md)
+10. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture10.md)
+11. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture11.md)
+12. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture12.md)
+13. [TBA](https://github.com/gloomydumber/mysqlPlayground/blob/master/notes/lecture13.md)
+
 ## References
 
 [🔗 lecture notes](https://www.yalco.kr/lectures/sql/)
+
+[🔗 SQL practice site](https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_all)
